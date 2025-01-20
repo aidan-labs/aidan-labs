@@ -13,7 +13,7 @@ Python and
 </picture> 
 PowerShell. My goal is to create efficient, scalable workflows that drive results. Currently, I am learning 
 <picture style="vertical-align: middle;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" alt="GoLang" width="18" height="18">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="GoLang" width="18" height="18">
 </picture> 
-GoLang. Curious about my work? Check out my latest projects—see my pinned repositories below!
+Swift Curious about my work? Check out my latest projects—see my pinned repositories below!
 </small>
